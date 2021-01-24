@@ -1,0 +1,6 @@
+[submodule "zpevnik"]
+	path = zpevnik
+	url = https://github.com/simberaj/zpevnik.git
+[submodule "akordy"]
+	path = akordy
+	url = https://github.com/simberaj/akordy.git
